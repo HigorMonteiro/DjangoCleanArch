@@ -23,5 +23,5 @@ DjangoCleanArch é um projeto que segue a arquitetura limpa (clean architecture)
 1. Clone o repositório:
 
 ## Arquitetura
-Ler mais [:book: ](docs/arch.md)
+Ler mais [:book: ](docs/README.md)
 
