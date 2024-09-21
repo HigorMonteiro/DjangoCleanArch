@@ -1,0 +1,43 @@
+# Arquivos e pastas gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração específicos do ambiente
+local_settings.py
+*.env
+
+# Banco de dados SQLite (se aplicável)
+db.sqlite3
+
+# Pastas de mídia e uploads (configure conforme necessário)
+media/
+uploads/
+
+# Arquivos gerados por editores e IDEs
+.idea/
+.vscode/
+*.swp
+
+# Arquivos de log
+*.log
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências (gerenciadas pelo Poetry)
+poetry.lock
+
+# Arquivos de build e distribuição
+dist/
+build/
+
+# Documentação gerada (se aplicável)
+docs/_build/
+
+# Outras ferramentas e bibliotecas (adicione conforme necessário)
+node_modules/
+.pytest_cache/
+.coverage

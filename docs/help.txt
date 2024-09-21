@@ -1,0 +1,2 @@
+# run migrations
+python manage.py makemigrations domain
